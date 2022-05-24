@@ -12,3 +12,5 @@ In this course, you'll learn CSS by designing a menu page for a cafe webpage.
 ## 3ème étape : learn-css-colors-by-building-a-set-of-colored-markers
 Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.
 In this course, you'll build a set of colored markers. You'll learn different ways to set color values and how to pair colors with each other.
+
+## 4ème étape : learn-html-forms-by-building-a-registration-form
